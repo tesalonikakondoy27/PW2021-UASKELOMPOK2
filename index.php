@@ -263,7 +263,7 @@ include 'dbconnect.php';
 					
 					<ul class="address">
 						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Kelompok 2, Manado.</li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@email">tesakondoyyy@gmail.com</a></li>
+						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@email">https://www.unsrat.ac.id</a></li>
 						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>081543025395</li>
 					</ul>
 				</div>
